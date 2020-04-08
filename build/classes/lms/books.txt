@@ -1,0 +1,9 @@
+black-widow:100:a
+englishmen:70:a
+lost-card:90:a
+arrey:25:a
+abcd:72:a
+pqrs:79:a
+xml:651:a
+the-king:0:a
+python:0:a
